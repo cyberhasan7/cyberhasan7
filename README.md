@@ -45,7 +45,7 @@
 
 ## 📫 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/hasanali)  
-- 📧 Email: hasandce2005@gmail.com  
+- 📧 Email: cyberhasan7@gmail.com  
 
 ---
 
