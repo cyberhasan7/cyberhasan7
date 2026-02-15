@@ -1,52 +1,78 @@
-# 👋 Hi, I'm H. Hasan Ali  
-
+👋 Hi, I'm **H. Hasan Ali**  
 🔐 Cyber Security Student | 🛡️ Ethical Hacker in Progress | 🚀 Future Entrepreneur  
 
 ---
 
-## 💡 Who Am I?
-- 🎓 Final year B.E. CSE (Cyber Security) student  
-- ⚡ A curious learner who believes **every system has a story, every vulnerability has a lesson**  
-- 🛠️ Loves creating **hands-on tools** in Python to solve real-world security problems  
-- 📚 Currently exploring **AI x Cybersecurity** and **business growth hacks**  
+## 💡 Who Am I?  
+
+🎓 Final year B.E. CSE (Cyber Security) student  
+⚡ Curious learner who believes every system has a weakness and every vulnerability teaches a lesson  
+🛠️ Love building hands-on security tools in Python to solve real-world problems  
+📚 Currently exploring AI + Cybersecurity and business growth strategies  
 
 ---
 
-## 🧑‍💻 What I Do
-- Build security scripts to detect, defend, and prevent cyber threats  
-- Break systems (ethically) to understand how to make them stronger  
-- Share knowledge & projects that help others learn cybersecurity  
+## 🧑‍💻 What I Do  
+
+- Break systems (ethically) to understand how to secure them  
+- Practice CTFs, labs, and vulnerability research  
+- Build cybersecurity tools and automation scripts  
+- Share projects and knowledge to help beginners learn cybersecurity  
 
 ---
 
-## 🔨 Featured Projects
-- 🧹 Malware Hash Checker → Detect malicious files with hash values  
-- 🔐 Keylogger Detector → Spot hidden keyloggers in your system  
-- 🌐 Port Scanner → Find open ports & map services  
-- 🕵️ Phishing URL Detector → Identify fake websites before they trap you  
-- 📂 File Integrity Monitor → Track unauthorized file changes  
+## 🏆 Cybersecurity Practice  
+
+- Ranked **Top 4% on TryHackMe** with 100+ completed rooms  
+- Actively practicing **CTF challenges on TryHackMe and PicoCTF**  
+- Learning **Bug Bounty and VDP vulnerability research workflows**  
+- Practicing **Linux and Windows privilege escalation labs**  
+
+🔗 TryHackMe Profile: https://tryhackme.com/p/kairo0  
 
 ---
 
-## ⚙️ Skills & Tools
-- Languages: Python, C, Java  
-- Security: Wireshark, Nmap, Burp Suite  
-- Dev Tools: Git, GitHub, Cursor IDE  
+## 🔨 Featured Projects  
+
+- 🧹 **Malware Hash Checker** → Detect malicious files using hash values  
+- 🔐 **Keylogger Detector** → Identify hidden keyloggers in a system  
+- 🌐 **Port Scanner** → Scan open ports and map running services  
+- 🕵️ **Phishing URL Detector** → Detect fake phishing websites  
+- 📂 **File Integrity Monitor** → Monitor unauthorized file changes  
 
 ---
 
-## 🎯 Vision & Goals
-- 🏆 Win cybersecurity hackathons with innovative solutions  
-- 💼 Land top IT placements   
-- 💡 Build a faceless AI-powered business that works while I sleep  
-- 🌍 Contribute to making the digital world safer for everyone  
+## ⚙️ Skills & Tools  
+
+### 🧠 Programming  
+- Python (Intermediate)  
+- C, Java  
+
+### 🔐 Security Tools  
+- Nmap, Burp Suite, Wireshark  
+- Kali Linux, Metasploit  
+
+### 🛠️ Dev Tools  
+- Git, GitHub, Cursor IDE  
 
 ---
 
-## 📫 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/hasanalih)  
+## 🎯 Vision & Goals  
+
+- 🏆 Win cybersecurity hackathons with innovative security projects  
+- 💼 Secure top IT placements as a Penetration Tester / VAPT Analyst  
+- 💡 Build an AI-powered faceless business that generates passive income  
+- 🌍 Contribute to making the digital world safer  
+
+---
+
+## 📫 Let’s Connect  
+
+- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
 - 📧 Email: cyberhasan7@gmail.com  
+- 💻 GitHub: https://github.com/cyberhasan7  
+- 🧠 TryHackMe: https://tryhackme.com/p/kairo0  
 
 ---
 
-⭐ “In cybersecurity, curiosity is not a risk — it’s the ultimate defense.” ⭐
+⭐ *“In cybersecurity, curiosity is not a risk — it’s the ultimate defense.”*  
